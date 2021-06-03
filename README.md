@@ -5,7 +5,7 @@ Welcome to my Github Page! :tada: :tada: :tada:
 
 You can find me on [LindkedIn](https://www.linkedin.com/in/george-wan-aa4189193/)!
 
-### Thank you for dropping by, stay awesome! :star: 😄
+### Thanks for dropping by, stay awesome! :star: 😄
 
 
 <!--
