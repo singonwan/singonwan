@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+My Name is George Wan and I'm a Software Engineer/Developer!
+
+Welcome to my Github Page! :tada: :tada: :tada:
+
+You can find me on [LindkedIn](https://www.linkedin.com/in/george-wan-aa4189193/)!
+
+### Thank you for dropping by, stay awesome! :star: 😄
+
 
 <!--
 **singonwan/singonwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
