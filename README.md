@@ -5,7 +5,7 @@ Welcome to my Github Page! :tada: :tada: :tada:
 
 You can find me on [LindkedIn](https://www.linkedin.com/in/george-wan-aa4189193/)!
 
-Take a look at my portfolio and the projects I have done! [George's Portfolio](singonwan.github.io)
+Take a look at my portfolio and the projects I have done! [George's Portfolio](https://singonwan.github.io)
 
 ### Thanks for dropping by, stay awesome! :star: 😄
 
